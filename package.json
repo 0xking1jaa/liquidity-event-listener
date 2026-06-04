@@ -1,0 +1,10 @@
+{
+  "name": "04-liquidity-event-listener",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node src/04-liquidity-event-listener.js",
+    "tracker": "node src/achievement-tracker.js",
+    "roadmap": "node src/achievement-tracker.js --roadmap",
+    "test": "echo ok"
+  }
+}
